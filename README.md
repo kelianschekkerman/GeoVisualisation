@@ -24,6 +24,6 @@ Here we changed `Glyph type` to `2D Glyph` and `Circle`, the `Orientation Array`
 To visualize this we also attached the glyph object to this files and changed `Glyph type` to `Cone`, the `Orientation Array` to the `Orientation` and the `Scale Factor` to 0.026.
 
 
-Some extra information about the file name: `NA_nr_0_year_0_arrow`:
+Some extra information about the file name: `NA_nr_0_year_0_....`:
 - NA = cyclones around the North Atlantic
 - nr_0 = the first file from the STORM data collection, noted with 0 in the file name of the data collection STORM
